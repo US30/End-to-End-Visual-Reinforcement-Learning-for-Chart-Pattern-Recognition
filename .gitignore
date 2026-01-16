@@ -1,0 +1,21 @@
+# Data Caches (Too large for Git)
+data_cache.npy
+price_cache.npy
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+build/
+dist/
+
+# ML Models & Weights
+*.pth
+*.zip
+
+# OS
+.DS_Store
